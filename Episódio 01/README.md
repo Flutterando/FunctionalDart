@@ -11,15 +11,15 @@ Link do estudo: https://www.youtube.com/watch?v=4EzUtx-Q58I
 * Alan Turing e sua Máquina de Turing (1936)
     * É a base das linguagens de programação imperativas
 * A Tese Church-Turing
-* **[Amostra prática](bin/1_lambda_calculus.dart)**: codificando booleanos apenas com funções
+* **[Amostra prática](samples/1_lambda_calculus.dart)**: codificando booleanos apenas com funções
 
 #### Seção 2: O que caracteriza uma linguagem funcional?
 
 * Não há um consenso absoluto
 * Algumas características distintivas:
-    * [High-order functions](bin/2.1_high_order_functions.dart)
-    * [Funções puras e transparência referencial](bin/2.2_pure_functions.dart)
-    * [Recursão](bin/2.3_recursion.dart)
+    * [High-order functions](samples/2.1_high_order_functions.dart)
+    * [Funções puras e transparência referencial](samples/2.2_pure_functions.dart)
+    * [Recursão](samples/2.3_recursion.dart)
 * Pontos positivos
     * Previsibilidade e exatidão
         * Testes
@@ -39,9 +39,9 @@ Link do estudo: https://www.youtube.com/watch?v=4EzUtx-Q58I
 Seção 3: Funções, Tipos e Composição
 
 * Desenvolver programas de forma funcional se resume a três pontos principais:
-    * [Funções](bin/3.2_functions.dart)
-    * Tipos<sup>[1](bin/3.3.1_types.dart)</sup> <sup>[2](bin/3.3.2_types.dart)</sup> <sup>[3](bin/3.3.3_types.dart)</sup>
-    * [Composição](bin/3.3.3_types.dart)
+    * [Funções](samples/3.2_functions.dart)
+    * Tipos<sup>[1](samples/3.3.1_types.dart)</sup> <sup>[2](samples/3.3.2_types.dart)</sup> <sup>[3](samples/3.3.3_types.dart)</sup>
+    * [Composição](samples/3.3.3_types.dart)
 * Funções
     * Funções como no sentido matemático
     * Funções de apenas um parâmetro (e currying)
@@ -64,6 +64,6 @@ Seção 3: Funções, Tipos e Composição
     * Composição de tipos
         * Multiplicação de tipos
         * Soma de tipos         
-* [Reflexões sobre funções e tipos](bin/4_reflections_on_functions_and_types.dart):
+* [Reflexões sobre funções e tipos](samples/4_reflections_on_functions_and_types.dart):
     * Descrevem comportamento
     * Não podem mentir
