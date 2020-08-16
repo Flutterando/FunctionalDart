@@ -1,0 +1,80 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "1: Lambda calculus",
+            "program": "bin/1_lambda_calculus.dart",
+            "request": "launch",
+            "type": "dart",
+            "vmAdditionalArgs": [
+                "--enable-experiment=non-nullable",
+            ],
+        },
+        {
+            "name": "2.1: High-order functions",
+            "program": "bin/2.1_high_order_functions.dart",
+            "request": "launch",
+            "type": "dart",
+            "vmAdditionalArgs": [
+                "--enable-experiment=non-nullable",
+            ],
+        },
+        {
+            "name": "2.2: Pure functions & referential transparency",
+            "program": "bin/2.2_pure_functions.dart",
+            "request": "launch",
+            "type": "dart",
+            "vmAdditionalArgs": [
+                "--enable-experiment=non-nullable",
+            ],
+        },
+        {
+            "name": "2.3: Recursion",
+            "program": "bin/2.3_recursion.dart",
+            "request": "launch",
+            "type": "dart",
+            "vmAdditionalArgs": [
+                "--enable-experiment=non-nullable",
+            ],
+        },
+        {
+            "name": "3.3.1: Types - OO",
+            "program": "bin/3.3.1_types.dart",
+            "request": "launch",
+            "type": "dart",
+            "vmAdditionalArgs": [
+                "--enable-experiment=non-nullable",
+            ],
+        },
+        {
+            "name": "3.3.2: Types - Funcional",
+            "program": "bin/3.3.2_types.dart",
+            "request": "launch",
+            "type": "dart",
+            // "vmAdditionalArgs": [
+            //     "--enable-experiment=non-nullable",
+            // ],
+        },
+        {
+            "name": "3.3.3: Types - Composition",
+            "program": "bin/3.3.3_types.dart",
+            "request": "launch",
+            "type": "dart",
+            // "vmAdditionalArgs": [
+            //     "--enable-experiment=non-nullable",
+            // ],
+        },
+        {
+            "name": "4: Reflections on Functions and Types",
+            "program": "bin/4_reflections_on_functions_and_types.dart",
+            "request": "launch",
+            "type": "dart",
+            // "vmAdditionalArgs": [
+            //     "--enable-experiment=non-nullable",
+            // ],
+        },
+    ]
+}

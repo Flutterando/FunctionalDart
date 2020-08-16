@@ -1,0 +1,10 @@
+include: package:pedantic/analysis_options.yaml
+
+analyzer:
+  strong-mode:
+    # implicit-casts: false
+    implicit-dynamic: false
+  enable-experiment:
+    - non-nullable
+  exclude:
+    - 'bin/1_lambda_calculus.dart'
