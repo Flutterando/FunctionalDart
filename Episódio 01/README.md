@@ -36,7 +36,7 @@ Link do estudo: https://www.youtube.com/watch?v=4EzUtx-Q58I
             - Mônadas
             - Effect systems
 
-Seção 3: Funções, Tipos e Composição
+#### Seção 3: Funções, Tipos e Composição
 
 * Desenvolver programas de forma funcional se resume a três pontos principais:
     * [Funções](samples/3.2_functions.dart)
