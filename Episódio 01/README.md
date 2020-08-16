@@ -40,7 +40,7 @@ Seção 3: Funções, Tipos e Composição
 
 * Desenvolver programas de forma funcional se resume a três pontos principais:
     * [Funções](bin/3.2_functions.dart)
-    * Tipos[1](bin/3.3.1_types.dart), [2](bin/3.3.2_types.dart), [3](bin/3.3.3_types.dart)
+    * Tipos<sup>[1](bin/3.3.1_types.dart)</sup> <sup>[2](bin/3.3.2_types.dart)</sup> <sup>[3](bin/3.3.3_types.dart)</sup>
     * [Composição](bin/3.3.3_types.dart)
 * Funções
     * Funções como no sentido matemático
