@@ -6,6 +6,7 @@
 // - (Recommended) An introductory video: https://www.youtube.com/watch?v=eis11j_iGMs
 // - Overview: https://en.wikipedia.org/wiki/Lambda_calculus
 // - Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/lambda-calculus/
+// - (Recommended) Lambda Calculus vs. Turing Machines (Theory of Computation): https://www.youtube.com/watch?v=ruOnPmI_40g
 
 // Here we define, in terms of functions, our boolean types
 // We are using dynamic everywhere because we are using the
