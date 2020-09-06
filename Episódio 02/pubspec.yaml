@@ -1,0 +1,11 @@
+name: funcional_dart_2
+description: Episódio 2 da série Functional Dart
+
+environment:
+  sdk: '>=2.10.0-0.0 <3.0.0'
+
+dependencies:
+  dartz: ^0.9.1
+
+dev_dependencies:
+  pedantic: ^1.9.0
