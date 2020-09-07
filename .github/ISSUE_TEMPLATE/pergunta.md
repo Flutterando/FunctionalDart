@@ -7,4 +7,6 @@ assignees: mateusfccp
 
 ---
 
+**Com qual episódio sua pergunta se relaciona?** [Coloque aqui o número do episódio, ou "nenhum", caso não tenha relação com nenhum espisódio]
+
 **Pergunta detalhada:** [Descreva aqui sua pergunta da forma mais detalhada possível]
