@@ -2,6 +2,12 @@
 
 Link do estudo: https://www.youtube.com/watch?v=2Tf_kkF4Y-o
 
+### Material adicional
+* [Dart e semântica](https://medium.com/flutterando/semantica-6245d550c14b)
+* [Dart e null-safety: uma alternativa funcional](https://medium.com/flutterando/dart-e-nnbd-9810aae37de7)
+* [Making Invalid State Unrepresentable](https://hugotunius.se/2020/05/16/making-invalid-state-unrepresentable.html)
+* [Domain Modeling Made Functional](https://fsharpforfunandprofit.com/ddd/)
+
 ### Estrutura do estudo:
 
 #### Seção 1: O que é semântica?
