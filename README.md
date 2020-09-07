@@ -11,4 +11,4 @@ Código e anotações da série de estudos "Dart Funcional".
 
 Caso você tenha alguma dúvida, sinta-se livre para abrir uma [_issue_](https://github.com/Flutterando/FunctionalDart/issues/new?assignees=mateusfccp&labels=question&template=pergunta.md&title=%5BPergunta%5D+Descreva+aqui+sua+pergunta+de+forma+sucinta) ou perguntar em algum dos nossos grupos oficiais do [Telegram](https://t.me/flutterando) ou [Discord](https://discordapp.com/invite/x7X4uA9)! No Discord há uma sala específica para isso, chamada #dart-funcional
 
-Para sugestões, favor, abrir uma _issue_.
+Para sugestões, favor, abrir uma [_issue_](https://github.com/Flutterando/FunctionalDart/issues/new?assignees=mateusfccp&labels=suggestion&template=sugest-o.md&title=%5BSugestão%5D+Descreva+aqui+sua+sugestão+de+forma+sucinta).
