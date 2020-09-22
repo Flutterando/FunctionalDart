@@ -4,7 +4,7 @@ Link do estudo: https://www.youtube.com/watch?v=i3yHzxT_Oj8
 
 ### Estrutura do estudo:
 
-#### Seção 1: Explorando o Option
+#### [Seção 1: Explorando o Option](samples/1_exploring_the_option_type.dart)
 * Como vimos no último estudo, o Option é um sum type que representa a possibilidade de ausência de um valor.
 * Desta forma, ele tem uma semântica parecida com a do `Null`.
 * Vamos ver um caso de uso:
@@ -14,7 +14,7 @@ Link do estudo: https://www.youtube.com/watch?v=i3yHzxT_Oj8
     * O Option “esconde” o valor interno por segurança.
     * Principal solução: checagem exaustiva
 
-#### Seção 2: Checagem exaustiva
+#### [Seção 2: Checagem exaustiva](samples/2_exhaustive_checking.dart)
 * Checagem exaustiva é uma característica dos sum types em linguagens funcionais.
 * Checagem exaustiva é quando somos forçados em tempo de compilação a chegar todos as possibilidades de um sum type.
 * Exemplo: Enum
@@ -29,11 +29,11 @@ Link do estudo: https://www.youtube.com/watch?v=i3yHzxT_Oj8
     * Lembre-se sempre que você pode usar bibliotecas que te auxiliem na criação de sum types. Por exemplo, os unions do Freezer possuem o método `when`.
 
 #### Seção 3: Functors
-* O problema do `fold`
+* [O problema do `fold`](samples/3.1_the_fold_problem.dart)
     * Vamos implementar uma função que obtém a quantidade de nomes do usuário.
     * Podemos usar `fold`, como vimos antes, mas o resultado fica complexo e confuso.
     * Como solução, vamos usar outra função que existe no Option: `map`.
-* Functors
+* [Functors](samples/3.2_functor_definition.dart)
     * Em Teoria das Categorias, um functor, é um mapeamento entre categorias.
         * Destaque no termo “mapeamento”.
     * Na prática, functors possuem dois conceitos principais:
