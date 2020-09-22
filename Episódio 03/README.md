@@ -1,6 +1,6 @@
 ## Episódio 3: Functor: os contêineres mágicos funcionais
 
-Link do estudo:
+Link do estudo: https://www.youtube.com/watch?v=i3yHzxT_Oj8
 
 ### Estrutura do estudo:
 
