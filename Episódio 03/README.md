@@ -40,7 +40,7 @@ Link do estudo: https://www.youtube.com/watch?v=i3yHzxT_Oj8
         * Eles são como contêineres.
         * Eles possuem uma função de mapeamento.
     * Mapeamento:
-        * Dado um functor sobre o tipo a e uma função a → b, retorna o mesmo functor sobre o tipo b.
+        * Dado um functor `F` sobre um tipo `a` (`F a`) e uma função `a → b`, retorna o mesmo functor sobre o tipo `b` (`F b`).
     * Exemplo 1: o functor mais simples (Id)
     * Exemplo 2: o functor Option.
     * Exemplo 3: o functor Either.
