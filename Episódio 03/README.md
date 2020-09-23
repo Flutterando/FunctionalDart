@@ -26,7 +26,7 @@ Link do estudo: https://www.youtube.com/watch?v=i3yHzxT_Oj8
     * Podemos, sem dificuldade, implementar um `fold` para os nossos sum types.
     * Apesar de ser um processo fácil, é chato e pode tender a erros.
         * Por exemplo, você pode alterar o sum type e esquecer de atualizar o método.
-    * Lembre-se sempre que você pode usar bibliotecas que te auxiliem na criação de sum types. Por exemplo, os unions do Freezer possuem o método `when`.
+    * Lembre-se sempre que você pode usar bibliotecas que te auxiliem na criação de sum types. Por exemplo, os unions do [Freezed](https://pub.dev/packages/freezed) possuem o método `when`.
 
 #### Seção 3: Functors
 * [O problema do `fold`](samples/3.1_the_fold_problem.dart)
