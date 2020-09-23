@@ -45,3 +45,9 @@ Link do estudo: https://www.youtube.com/watch?v=i3yHzxT_Oj8
     * Exemplo 2: o functor Option.
     * Exemplo 3: o functor Either.
     * Exemplo 4: functors na stdlib.
+
+### Material adicional
+
+* [Proof by exhaustion](https://en.wikipedia.org/wiki/Proof_by_exhaustion): o fundamento por trás do exhaustion checking.
+* [Functors (Overview)](https://en.wikipedia.org/wiki/Functor_(functional_programming))
+* [Functors (Teoria da Categoria)](https://bartoszmilewski.com/2015/01/20/functors/)
