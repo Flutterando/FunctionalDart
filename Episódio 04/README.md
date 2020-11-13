@@ -6,6 +6,7 @@ Link do estudo: https://www.youtube.com/watch?v=dwf2EfuT_9c
 
 A maior parte desse material foi adaptado de uma série de três artigos por Scott Wlaschin, no seu site.
 Caso tenha interesse em se aprofundar sobre o assunto, os artigos delem são ainda mais detalhados e vão mais longe do que esse episódio.
+
 Link: https://fsharpforfunandprofit.com/posts/monoids-without-tears/
 
 ### Estrutura do estudo:
