@@ -9,6 +9,8 @@ Caso tenha interesse em se aprofundar sobre o assunto, os artigos delem são ain
 
 Link: https://fsharpforfunandprofit.com/posts/monoids-without-tears/
 
+Caso de uso: https://skipperkongen.dk/2014/08/13/twitter-monoids-in-spark/
+
 ### Estrutura do estudo:
 
 #### Seção 1: O que são monoides?
