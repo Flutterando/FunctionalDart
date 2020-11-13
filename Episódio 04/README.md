@@ -28,7 +28,7 @@ Link: https://fsharpforfunandprofit.com/posts/monoids-without-tears/
     * Máximo de dois inteiros: forma uma monoide ✔
     * Adição de positivos: não possui identidade
     * Listas e concatenação: forma uma monoide ✔
-* Prática: implementando monoides no Dart (bin/monoid.dart)
+* Prática: [implementando monoides no Dart](bin/monoid.dart)
 
 #### Seção 2: Checagem exaustiva
 * As propriedades monóidicas nos permitem abstrair nosso código.
