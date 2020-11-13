@@ -11,7 +11,7 @@ Link: https://fsharpforfunandprofit.com/posts/monoids-without-tears/
 
 ### Estrutura do estudo:
 
-#### [Seção 1: O que são monoides?]
+#### Seção 1: O que são monoides?
 * O termo monoide vem da álgebra abstrata
 * Apesar do termo ser confuso, a ideia é muito simples
 * Uma monoide é um conjunto M com um operador binário · com as seguintes propriedades:
