@@ -26,7 +26,7 @@ Link do estudo: https://www.youtube.com/watch?v=i3yHzxT_Oj8
     * Podemos, sem dificuldade, implementar um `fold` para os nossos sum types.
     * Apesar de ser um processo fácil, é chato e pode tender a erros.
         * Por exemplo, você pode alterar o sum type e esquecer de atualizar o método.
-    * Lembre-se sempre que você pode usar bibliotecas que te auxiliem na criação de sum types. Por exemplo, os unions do Freezer possuem o método `when`.
+    * Lembre-se sempre que você pode usar bibliotecas que te auxiliem na criação de sum types. Por exemplo, os unions do [Freezed](https://pub.dev/packages/freezed) possuem o método `when`.
 
 #### Seção 3: Functors
 * [O problema do `fold`](samples/3.1_the_fold_problem.dart)
@@ -40,8 +40,14 @@ Link do estudo: https://www.youtube.com/watch?v=i3yHzxT_Oj8
         * Eles são como contêineres.
         * Eles possuem uma função de mapeamento.
     * Mapeamento:
-        * Dado um functor sobre o tipo a e uma função a → b, retorna o mesmo functor sobre o tipo b.
+        * Dado um functor `F` sobre um tipo `a` (`F a`) e uma função `a → b`, retorna o mesmo functor sobre o tipo `b` (`F b`).
     * Exemplo 1: o functor mais simples (Id)
     * Exemplo 2: o functor Option.
     * Exemplo 3: o functor Either.
     * Exemplo 4: functors na stdlib.
+
+### Material adicional
+
+* [Proof by exhaustion](https://en.wikipedia.org/wiki/Proof_by_exhaustion): o fundamento por trás do exhaustive checking.
+* [Functors (Overview)](https://en.wikipedia.org/wiki/Functor_(functional_programming))
+* [Functors (Teoria da Categoria)](https://bartoszmilewski.com/2015/01/20/functors/)
