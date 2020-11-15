@@ -25,7 +25,7 @@ int wordCount(Text text) {
   return words.length;
 }
 
-/// Calculates how many time has been spent on [fn].
+/// Calculates how much time has been spent on [fn].
 ///
 /// The result is returned in milliseconds.
 int time(void Function() fn) {
